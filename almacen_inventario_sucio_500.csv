@@ -1,0 +1,507 @@
+id,nombre,categoria,stock,precio
+PROD-0174,Taladro Percutor Mod-84,Ferretería,21,73.72
+PROD-0275,"Fierro Corrugado 1/2"" Mod-42",Construcción,7,48.96
+PROD-0492,Thinner Acrílico 1G Mod-20,Pinturas,48,79.2
+PROD-0073,Esmalte Sintético Mod-24,Pinturas,22,74.51
+PROD-0453,Martillo Carpintero Mod-57,Ferretería,103,63.42
+PROD-0077,Pegamento para Mayólica Mod-72,Construcción,30,28.91
+PROD-0317,Foco LED 12W Mod-75,,6,
+PROD-0141,Lentes de Policarbonato Mod-82,Seguridad Industrial,3,64.68
+PROD-0472,Guantes de Badana Mod-30,Seguridad Industrial,112,36.3
+PROD-0001,Pegamento para Mayólica Mod-27,Construcción,85,33.3
+PROD-0219,Pegamento para Mayólica Mod-78,Construcción,35,S/ 20.47
+PROD-0010,Tomacorriente con Tierra Mod-94,Electricidad,58,22.34
+PROD-0415,Llave Térmica 32A Mod-23,Electricidad,80,48.78
+PROD-0079,Taladro Percutor Mod-41,Ferretería,110,46.46
+PROD-0324,Cemento Sol 42.5kg Mod-78,Construcción,75,38.63
+PROD-0474,Pintura Látex Blanco 4L Mod-73,Pinturas,24,88.53
+PROD-0125,Foco LED 12W Mod-54,,43,
+PROD-0389,"Brocha de 4"" Mod-79",Pinturas,10,54.94
+PROD-0196,Botas Punta de Acero Mod-60,Seguridad Industrial,74,49.29
+PROD-0449,Llave Térmica 32A Mod-92,Electricidad,31,36.16
+PROD-0272," BROCHA DE 4"" MOD-32 ",  pinturas  ,101,40.42
+PROD-0279,Multímetro Digital Mod-62,Electricidad,103,26.72
+PROD-0031,Botas Punta de Acero Mod-58,Seguridad Industrial,5,61.49
+PROD-0002,Cable THW 14 AWG Mod-57,Electricidad,75,32.44
+PROD-0422,Chaleco Reflectivo Mod-47,Seguridad Industrial,36,68.51
+PROD-0475,Casco de Seguridad Mod-60,Seguridad Industrial,47,57.69
+PROD-0080,Cinta Métrica 5m Mod-55,Ferretería,8,72.67
+PROD-0455,Interruptor Doble Mod-30,Electricidad,69,52.82
+PROD-0211,Interruptor Doble Mod-56,Electricidad,6,32.35
+PROD-0498,Tomacorriente con Tierra Mod-60,Electricidad,0,50.47
+PROD-0173,Alicate Universal Mod-90,Ferretería,76,74.05
+PROD-0321,"Fierro Corrugado 1/2"" Mod-56",Construcción,19,27.11
+PROD-0376,Interruptor Doble Mod-93,Electricidad,42,20.43
+PROD-0363,Chaleco Reflectivo Mod-66,,52,
+PROD-0468,Juego de Llaves Mod-52,Ferretería,11,64.96
+PROD-0154,Multímetro Digital Mod-25,Electricidad,25,33.51
+PROD-0003,Foco LED 12W Mod-88,Electricidad,38,32.33
+PROD-0337,Tomacorriente con Tierra Mod-46,,44,
+PROD-0209,Guantes de Badana Mod-93,Seguridad Industrial,78,45.47
+PROD-0074,Llave Térmica 32A Mod-27,Electricidad,2,38.91
+PROD-0497,Esmalte Sintético Mod-60,Pinturas,74,36.46
+PROD-0308,Lentes de Policarbonato Mod-59,Seguridad Industrial,89,
+PROD-0205,Esmalte Sintético Mod-35,Pinturas,109,33.64
+PROD-0069,Lentes de Policarbonato Mod-81,Seguridad Industrial,102,39.7
+PROD-0091,Lentes de Policarbonato Mod-17,Seguridad Industrial,47,58.05
+PROD-0391,Pegamento para Mayólica Mod-59,Construcción,24,S/ 31.28
+PROD-0034,Esmalte Sintético Mod-49,Pinturas,84,86.78
+PROD-0071,Pegamento para Mayólica Mod-36,Construcción,73,37.06
+PROD-0471,Tomacorriente con Tierra Mod-62,Electricidad,-10,31.12
+PROD-0001,Pegamento para Mayólica Mod-27,Construcción,85,33.3
+PROD-0012,Foco LED 12W Mod-77,Electricidad,13,27.64
+PROD-0282,Botas Punta de Acero Mod-79,Seguridad Industrial,23,62.71
+PROD-0023,Cable THW 14 AWG Mod-97,Electricidad,65,30.19
+PROD-0102,Alicate Universal Mod-34,Ferretería,16,72.41
+PROD-0269,Casco de Seguridad Mod-16,Seguridad Industrial,49,24.82
+PROD-0486,Casco de Seguridad Mod-72,Seguridad Industrial,77,31.91
+PROD-0443,"Brocha de 4"" Mod-55",Pinturas,115,88.6
+PROD-0291,Cable THW 14 AWG Mod-75,Electricidad,24,23.31
+PROD-0085,Ladrillo King Kong Mod-35,Construcción,101,49.46
+PROD-0246,Tomacorriente con Tierra Mod-18,Electricidad,39,22.37
+PROD-0064, PINTURA LÁTEX BLANCO 4L MOD-87 ,  pinturas  ,73,81.14
+PROD-0056,Martillo Carpintero Mod-30,Ferretería,56,78.51
+PROD-0230,Guantes de Badana Mod-94,Seguridad Industrial,110,40.13
+PROD-0019,Cinta Métrica 5m Mod-38,Ferretería,-10,30.11
+PROD-0352,Lentes de Policarbonato Mod-94,Seguridad Industrial,16,43.53
+PROD-0210,Esmalte Sintético Mod-33,Pinturas,50,62.22
+PROD-0396,"Rodillo de Felpa 9"" Mod-96",Pinturas,14,67.97
+PROD-0083,Multímetro Digital Mod-33,Electricidad,95,34.9
+PROD-0040,Multímetro Digital Mod-32,Electricidad,-5,21.26
+PROD-0457,Chaleco Reflectivo Mod-76,Seguridad Industrial,97,40.89
+PROD-0047,Lentes de Policarbonato Mod-81,Seguridad Industrial,79,40.32
+PROD-0482,Cinta Métrica 5m Mod-10,Ferretería,35,68.25
+PROD-0445,Esmalte Sintético Mod-79,Pinturas,23,73.26
+PROD-0356,"Rodillo de Felpa 9"" Mod-49",Pinturas,5,39.66
+PROD-0078, MARTILLO CARPINTERO MOD-57 ,  ferretería  ,104,27.33
+PROD-0399,Tomacorriente con Tierra Mod-44,Electricidad,90,43.58
+PROD-0105,Juego de Llaves Mod-37,Ferretería,89,S/ 55.24
+PROD-0204,Multímetro Digital Mod-58,Electricidad,80,20.95
+PROD-0382,Martillo Carpintero Mod-86,Ferretería,74,65.46
+PROD-0490,Juego de Llaves Mod-30,Ferretería,6,54.35
+PROD-0070,"Fierro Corrugado 1/2"" Mod-25",Construcción,5,44.88
+PROD-0409,Foco LED 12W Mod-16,Electricidad,16,34.58
+PROD-0256,Cable THW 14 AWG Mod-40,Electricidad,88,33.11
+PROD-0393,Cemento Sol 42.5kg Mod-22,Construcción,29,S/ 49.79
+PROD-0313,Yeso Cerámico Mod-18,Construcción,43,25.85
+PROD-0235,Cinta Métrica 5m Mod-11,Ferretería,6,76.49
+PROD-0461,Yeso Cerámico Mod-31,Construcción,15,28.55
+PROD-0325,Pintura Látex Blanco 4L Mod-30,Pinturas,109,69.15
+PROD-0094,Casco de Seguridad Mod-37,Seguridad Industrial,75,54.74
+PROD-0138, CHALECO REFLECTIVO MOD-58 ,  seguridad industrial  ,97,45.29
+PROD-0177,Casco de Seguridad Mod-48,Seguridad Industrial,-5,66.72
+PROD-0418,Cinta Métrica 5m Mod-59,Ferretería,102,51.72
+PROD-0132,Pegamento para Mayólica Mod-15,Construcción,38,38.47
+PROD-0347,Tomacorriente con Tierra Mod-26,Electricidad,113,30.32
+PROD-0366,Taladro Percutor Mod-58,Ferretería,SIN_DATO,62.15
+PROD-0133,Guantes de Badana Mod-19,Seguridad Industrial,114,57.96
+PROD-0372,Cemento Sol 42.5kg Mod-84,Construcción,90,41.74
+PROD-0413,Taladro Percutor Mod-96,Ferretería,56,66.87
+PROD-0437,Esmalte Sintético Mod-93,Pinturas,94,47.18
+PROD-0412,Pintura Látex Blanco 4L Mod-57,Pinturas,36,93.65
+PROD-0087,Foco LED 12W Mod-34,Electricidad,7,33.9
+PROD-0076,"Brocha de 4"" Mod-56",Pinturas,8,44.82
+PROD-0478,Ladrillo King Kong Mod-21,Construcción,24,20.38
+PROD-0016,Pintura Látex Blanco 4L Mod-35,Pinturas,47,66.77
+PROD-0333,Destornillador Estrella Mod-77,Ferretería,53,65.85
+PROD-0424,Interruptor Doble Mod-49,Electricidad,75,47.61
+PROD-0020,Juego de Llaves Mod-50,Ferretería,90,40.01
+PROD-0326,Martillo Carpintero Mod-63,Ferretería,26,64.44
+PROD-0336,Interruptor Doble Mod-42,Electricidad,93,32.87
+PROD-0057,Esmalte Sintético Mod-57,Pinturas,78,83.32
+PROD-0438,Foco LED 12W Mod-59,Electricidad,58,31.14
+PROD-0410,Pegamento para Mayólica Mod-39,Construcción,3,45.49
+PROD-0335,Cemento Sol 42.5kg Mod-29,Construcción,47,21.56
+PROD-0182,Lentes de Policarbonato Mod-40,Seguridad Industrial,86,27.9
+PROD-0228,"Brocha de 4"" Mod-39",Pinturas,-10,79.09
+PROD-0435,Taladro Percutor Mod-17,Ferretería,20,46.82
+PROD-0181,Destornillador Estrella Mod-68,Ferretería,112,80.03
+PROD-0026,"Rodillo de Felpa 9"" Mod-36",Pinturas,94,86.26
+PROD-0494,Destornillador Estrella Mod-91,Ferretería,74,68.77
+PROD-0239,Taladro Percutor Mod-29,Ferretería,32,55.13
+PROD-0245,"Rodillo de Felpa 9"" Mod-94",Pinturas,52,38.68
+PROD-0251,Multímetro Digital Mod-68,Electricidad,68,46.68
+PROD-0419,Interruptor Doble Mod-62,Electricidad,46,23.62
+PROD-0118,"Brocha de 4"" Mod-69",Pinturas,14,81.37
+PROD-0043,Ladrillo King Kong Mod-31,Construcción,18,38.82
+PROD-0323,Chaleco Reflectivo Mod-70,Seguridad Industrial,9,65.67
+PROD-0348,Pegamento para Mayólica Mod-35,Construcción,77,37.4
+PROD-0183,Lentes de Policarbonato Mod-20,Seguridad Industrial,69,34.72
+PROD-0156,Juego de Llaves Mod-29,Ferretería,101,S/ 55.53
+PROD-0281,Llave Térmica 32A Mod-33,Electricidad,83,39.86
+PROD-0127,Destornillador Estrella Mod-68,Ferretería,57,63.98
+PROD-0330,Lentes de Policarbonato Mod-78,Seguridad Industrial,115,35.26
+PROD-0032,Multímetro Digital Mod-35,Electricidad,19,41.94
+PROD-0114,Foco LED 12W Mod-55,Electricidad,23,27.85
+PROD-0149,Yeso Cerámico Mod-34,Construcción,14,35.6
+PROD-0433,Foco LED 12W Mod-24,Electricidad,42,22.97
+PROD-0339, LADRILLO KING KONG MOD-60 ,  construcción  ,111,42.64
+PROD-0058,Interruptor Doble Mod-86,Electricidad,44,42.31
+PROD-0195,Juego de Llaves Mod-54,Ferretería,15,51.02
+PROD-0025,Yeso Cerámico Mod-56,Construcción,56,47.1
+PROD-0018,Llave Térmica 32A Mod-86,Electricidad,69,32.33
+PROD-0299,Yeso Cerámico Mod-78,Construcción,104,41.01
+PROD-0067,Llave Térmica 32A Mod-33,Electricidad,20,32.04
+PROD-0212,Foco LED 12W Mod-40,Electricidad,15,19.54
+PROD-0405,Interruptor Doble Mod-94,Electricidad,106,19.31
+PROD-0095,Multímetro Digital Mod-73,Electricidad,30,19.39
+PROD-0155,Chaleco Reflectivo Mod-28,Seguridad Industrial,81,60.26
+PROD-0442,"Rodillo de Felpa 9"" Mod-90",Pinturas,76,60.82
+PROD-0024,Tomacorriente con Tierra Mod-12,Electricidad,20,50.59
+PROD-0226,Juego de Llaves Mod-68,Ferretería,38,44.77
+PROD-0434,Pintura Látex Blanco 4L Mod-72,Pinturas,42,65.82
+PROD-0448,Ladrillo King Kong Mod-20,Construcción,91,32.43
+PROD-0006,Thinner Acrílico 1G Mod-86,Pinturas,42,83.56
+PROD-0117,Lentes de Policarbonato Mod-64,Seguridad Industrial,33,45.81
+PROD-0046,Guantes de Badana Mod-91,Seguridad Industrial,39,25.96
+PROD-0017,Foco LED 12W Mod-78,Electricidad,32,48.78
+PROD-0469,Yeso Cerámico Mod-84,Construcción,SIN_DATO,39.88
+PROD-0361,Pintura Látex Blanco 4L Mod-59,Pinturas,100,37.25
+PROD-0004,Thinner Acrílico 1G Mod-94,Pinturas,41,80.01
+PROD-0406,Esmalte Sintético Mod-64,Pinturas,40,60.71
+PROD-0186,Multímetro Digital Mod-37,Electricidad,14,43.9
+PROD-0061,Ladrillo King Kong Mod-81,Construcción,107,40.83
+PROD-0111,Esmalte Sintético Mod-33,Pinturas,59,92.36
+PROD-0322,Casco de Seguridad Mod-23,Seguridad Industrial,54,46.89
+PROD-0266,Pegamento para Mayólica Mod-52,Construcción,24,41.42
+PROD-0030,Multímetro Digital Mod-19,Electricidad,81,19.75
+PROD-0263,Lentes de Policarbonato Mod-32,Seguridad Industrial,97,47.09
+PROD-0479,Yeso Cerámico Mod-90,Construcción,78,27.22
+PROD-0027,"Fierro Corrugado 1/2"" Mod-69",Construcción,25,49.98
+PROD-0008, CHALECO REFLECTIVO MOD-80 ,  seguridad industrial  ,111,53.95
+PROD-0493,Cemento Sol 42.5kg Mod-30,Construcción,51,21.47
+PROD-0109,Pintura Látex Blanco 4L Mod-42,Pinturas,2,64.55
+PROD-0038,Botas Punta de Acero Mod-14,Seguridad Industrial,23,37.83
+PROD-0158,Multímetro Digital Mod-93,Electricidad,46,38.45
+PROD-0473,Interruptor Doble Mod-46,Electricidad,39,37.29
+PROD-0119,Thinner Acrílico 1G Mod-94,Pinturas,47,41.04
+PROD-0115,Pegamento para Mayólica Mod-98,Construcción,22,49.25
+PROD-0176,"Fierro Corrugado 1/2"" Mod-88",Construcción,49,39.4
+PROD-0193, PEGAMENTO PARA MAYÓLICA MOD-66 ,  construcción  ,26,29.04
+PROD-0273,Alicate Universal Mod-18,Ferretería,68,69.85
+PROD-0145,Guantes de Badana Mod-43,Seguridad Industrial,22,49.77
+PROD-0374,Chaleco Reflectivo Mod-15,,60,
+PROD-0384,Martillo Carpintero Mod-63,Ferretería,90,30.81
+PROD-0357,Botas Punta de Acero Mod-13,Seguridad Industrial,48,61.45
+PROD-0278,Thinner Acrílico 1G Mod-10,Pinturas,118,83.73
+PROD-0221,Ladrillo King Kong Mod-56,Construcción,74,23.03
+PROD-0451,Pegamento para Mayólica Mod-23,Construcción,16,19.96
+PROD-0142,Juego de Llaves Mod-50,Ferretería,45,44.49
+PROD-0370,Cemento Sol 42.5kg Mod-29,Construcción,14,19.14
+PROD-0068,Casco de Seguridad Mod-29,Seguridad Industrial,118,69.01
+PROD-0362,Cinta Métrica 5m Mod-82,Ferretería,12,76.2
+PROD-0169,Llave Térmica 32A Mod-71,Electricidad,70,36.12
+PROD-0500,Botas Punta de Acero Mod-73,Seguridad Industrial,76,34.77
+PROD-0395,Esmalte Sintético Mod-12,Pinturas,99,59.89
+PROD-0401,Casco de Seguridad Mod-33,Seguridad Industrial,85,34.71
+PROD-0194,Casco de Seguridad Mod-90,Seguridad Industrial,34,55.34
+PROD-0250,Ladrillo King Kong Mod-89,Construcción,66,33.34
+PROD-0110,Tomacorriente con Tierra Mod-63,Electricidad,115,24.64
+PROD-0421,Thinner Acrílico 1G Mod-48,Pinturas,100,43.55
+PROD-0146, MARTILLO CARPINTERO MOD-39 ,  ferretería  ,45,73.44
+PROD-0093, THINNER ACRÍLICO 1G MOD-38 ,  pinturas  ,60,83.86
+PROD-0153, PEGAMENTO PARA MAYÓLICA MOD-50 ,  construcción  ,102,42.15
+PROD-0223,Lentes de Policarbonato Mod-92,Seguridad Industrial,15,60.56
+PROD-0305, CABLE THW 14 AWG MOD-92 ,  electricidad  ,27,44.22
+PROD-0084,Ladrillo King Kong Mod-39,Construcción,72,33.07
+PROD-0249,Taladro Percutor Mod-85,Ferretería,36,68.9
+PROD-0166,Taladro Percutor Mod-37,Ferretería,118,38.92
+PROD-0164,Ladrillo King Kong Mod-47,Construcción,13,25.2
+PROD-0200,Tomacorriente con Tierra Mod-12,Electricidad,12,S/ 35.4
+PROD-0232,Tomacorriente con Tierra Mod-27,Electricidad,96,37.0
+PROD-0075,Llave Térmica 32A Mod-96,Electricidad,81,25.21
+PROD-0312,Thinner Acrílico 1G Mod-38,Pinturas,54,81.84
+PROD-0456,Botas Punta de Acero Mod-38,Seguridad Industrial,23,54.04
+PROD-0254,Destornillador Estrella Mod-64,Ferretería,64,67.51
+PROD-0120,Pegamento para Mayólica Mod-33,Construcción,104,S/ 35.26
+PROD-0285,Chaleco Reflectivo Mod-53,Seguridad Industrial,13,40.71
+PROD-0303,Juego de Llaves Mod-56,Ferretería,83,31.22
+PROD-0484,Pegamento para Mayólica Mod-96,Construcción,7,47.35
+PROD-0358,Lentes de Policarbonato Mod-59,Seguridad Industrial,25,37.04
+PROD-0404,Juego de Llaves Mod-45,Ferretería,102,30.98
+PROD-0229,Ladrillo King Kong Mod-98,Construcción,4,36.42
+PROD-0262, ALICATE UNIVERSAL MOD-12 ,  ferretería  ,112,42.06
+PROD-0238,Foco LED 12W Mod-39,Electricidad,61,46.43
+PROD-0387,"Brocha de 4"" Mod-75",Pinturas,0,60.38
+PROD-0477,Taladro Percutor Mod-76,Ferretería,102,58.04
+PROD-0037,Casco de Seguridad Mod-34,Seguridad Industrial,17,68.26
+PROD-0197,"Brocha de 4"" Mod-20",Pinturas,93,75.35
+PROD-0140,Llave Térmica 32A Mod-54,Electricidad,52,49.33
+PROD-0369,Pegamento para Mayólica Mod-76,Construcción,20,50.25
+PROD-0248,"Fierro Corrugado 1/2"" Mod-29",Construcción,114,48.88
+PROD-0288,Alicate Universal Mod-51,Ferretería,63,30.71
+PROD-0379,Foco LED 12W Mod-66,Electricidad,106,19.72
+PROD-0060, YESO CERÁMICO MOD-59 ,  construcción  ,10,17.06
+PROD-0112,Llave Térmica 32A Mod-65,Electricidad,96,S/ 41.31
+PROD-0090,Llave Térmica 32A Mod-22,Electricidad,87,S/ 39.82
+PROD-0267,Pintura Látex Blanco 4L Mod-80,Pinturas,89,47.65
+PROD-0007,Thinner Acrílico 1G Mod-68,Pinturas,-5,43.17
+PROD-0365,Cable THW 14 AWG Mod-52,Electricidad,113,21.97
+PROD-0004,Thinner Acrílico 1G Mod-94,Pinturas,41,80.01
+PROD-0342," FIERRO CORRUGADO 1/2"" MOD-27 ",  construcción  ,66,48.97
+PROD-0159,Multímetro Digital Mod-39,Electricidad,0,22.12
+PROD-0151,Guantes de Badana Mod-71,Seguridad Industrial,35,56.57
+PROD-0178,Tomacorriente con Tierra Mod-35,Electricidad,SIN_DATO,29.39
+PROD-0398," BROCHA DE 4"" MOD-68 ",  pinturas  ,109,73.3
+PROD-0185,Guantes de Badana Mod-85,Seguridad Industrial,28,35.64
+PROD-0319,Cinta Métrica 5m Mod-87,Ferretería,21,58.79
+PROD-0011,Foco LED 12W Mod-54,Electricidad,119,30.34
+PROD-0385,Llave Térmica 32A Mod-63,Electricidad,62,28.64
+PROD-0104,Cinta Métrica 5m Mod-91,Ferretería,15,38.91
+PROD-0082,Lentes de Policarbonato Mod-45,Seguridad Industrial,32,39.97
+PROD-0039,"Fierro Corrugado 1/2"" Mod-45",Construcción,60,17.88
+PROD-0318,Pegamento para Mayólica Mod-90,Construcción,94,44.65
+PROD-0168,Juego de Llaves Mod-35,Ferretería,23,28.18
+PROD-0476,Ladrillo King Kong Mod-65,Construcción,20,25.67
+PROD-0300,"Rodillo de Felpa 9"" Mod-29",Pinturas,109,57.19
+PROD-0297,Chaleco Reflectivo Mod-57,Seguridad Industrial,107,35.22
+PROD-0199,Alicate Universal Mod-38,Ferretería,69,55.11
+PROD-0378,Alicate Universal Mod-49,Ferretería,104,35.74
+PROD-0147,Cinta Métrica 5m Mod-48,Ferretería,49,70.29
+PROD-0397,Pegamento para Mayólica Mod-75,Construcción,70,37.45
+PROD-0148,Martillo Carpintero Mod-84,Ferretería,75,64.49
+PROD-0429,Esmalte Sintético Mod-29,Pinturas,54,76.39
+PROD-0290,Pintura Látex Blanco 4L Mod-74,Pinturas,93,72.3
+PROD-0124,Interruptor Doble Mod-26,Electricidad,93,53.23
+PROD-0491,Alicate Universal Mod-40,Ferretería,40,S/ 46.86
+PROD-0097,Juego de Llaves Mod-15,Ferretería,104,42.5
+PROD-0144,Pegamento para Mayólica Mod-81,Construcción,2,48.48
+PROD-0240,Martillo Carpintero Mod-52,Ferretería,0,54.31
+PROD-0276,Esmalte Sintético Mod-33,Pinturas,-10,59.3
+PROD-0098,Llave Térmica 32A Mod-38,Electricidad,100,50.49
+PROD-0354,"Brocha de 4"" Mod-53",Pinturas,26,70.44
+PROD-0123,Pintura Látex Blanco 4L Mod-86,Pinturas,93,S/ 96.85
+PROD-0184,Botas Punta de Acero Mod-40,Seguridad Industrial,88,56.37
+PROD-0203,"Rodillo de Felpa 9"" Mod-55",Pinturas,93,79.49
+PROD-0247,Chaleco Reflectivo Mod-50,Seguridad Industrial,61,59.77
+PROD-0485,Pegamento para Mayólica Mod-49,Construcción,32,25.1
+PROD-0302,Destornillador Estrella Mod-50,Ferretería,24,40.21
+PROD-0355,Yeso Cerámico Mod-25,Construcción,57,49.07
+PROD-0411,Chaleco Reflectivo Mod-24,Seguridad Industrial,0,56.43
+PROD-0400,Taladro Percutor Mod-85,Ferretería,53,49.51
+PROD-0287,"Rodillo de Felpa 9"" Mod-49",Pinturas,5,93.43
+PROD-0126,Destornillador Estrella Mod-44,Ferretería,82,52.21
+PROD-0306,Casco de Seguridad Mod-78,Seguridad Industrial,71,59.75
+PROD-0224,Cable THW 14 AWG Mod-82,Electricidad,67,36.77
+PROD-0423,Tomacorriente con Tierra Mod-86,Electricidad,85,47.26
+PROD-0220,Llave Térmica 32A Mod-11,Electricidad,24,44.57
+PROD-0130,Cable THW 14 AWG Mod-69,Electricidad,28,31.16
+PROD-0425,Ladrillo King Kong Mod-88,Construcción,90,S/ 17.72
+PROD-0292,Juego de Llaves Mod-82,Ferretería,31,46.07
+PROD-0332,Yeso Cerámico Mod-53,Construcción,82,42.5
+PROD-0381,Tomacorriente con Tierra Mod-18,Electricidad,27,49.28
+PROD-0481,Ladrillo King Kong Mod-24,Construcción,37,
+PROD-0359,Foco LED 12W Mod-94,Electricidad,58,S/ 47.68
+PROD-0298,Botas Punta de Acero Mod-48,Seguridad Industrial,64,39.5
+PROD-0295,Ladrillo King Kong Mod-59,Construcción,74,45.23
+PROD-0371,Tomacorriente con Tierra Mod-11,Electricidad,86,53.0
+PROD-0439,Martillo Carpintero Mod-52,Ferretería,17,57.76
+PROD-0113,Pegamento para Mayólica Mod-39,Construcción,91,21.07
+PROD-0180,Interruptor Doble Mod-39,Electricidad,107,44.81
+PROD-0311,Cinta Métrica 5m Mod-77,Ferretería,56,80.58
+PROD-0343,Destornillador Estrella Mod-49,Ferretería,12,
+PROD-0334,Botas Punta de Acero Mod-57,Seguridad Industrial,-10,59.61
+PROD-0488,"Brocha de 4"" Mod-43",Pinturas,80,56.64
+PROD-0458,"Brocha de 4"" Mod-54",Pinturas,31,81.46
+PROD-0234,Lentes de Policarbonato Mod-22,Seguridad Industrial,56,S/ 68.1
+PROD-0315,Casco de Seguridad Mod-19,Seguridad Industrial,78,42.05
+PROD-0165,Destornillador Estrella Mod-91,Ferretería,114,76.05
+PROD-0137,Yeso Cerámico Mod-16,Construcción,20,32.97
+PROD-0198,Pegamento para Mayólica Mod-20,Construcción,29,33.67
+PROD-0259,Alicate Universal Mod-41,Ferretería,13,53.15
+PROD-0233, GUANTES DE BADANA MOD-90 ,  seguridad industrial  ,14,66.32
+PROD-0116,Destornillador Estrella Mod-38,Ferretería,111,73.03
+PROD-0121,Chaleco Reflectivo Mod-49,Seguridad Industrial,79,66.08
+PROD-0353,Yeso Cerámico Mod-34,Construcción,116,24.85
+PROD-0225,Guantes de Badana Mod-89,Seguridad Industrial,79,
+PROD-0407,Martillo Carpintero Mod-23,Ferretería,14,44.29
+PROD-0341,Thinner Acrílico 1G Mod-53,Pinturas,28,36.82
+PROD-0128,"Rodillo de Felpa 9"" Mod-46",Pinturas,113,39.48
+PROD-0286,Alicate Universal Mod-58,Ferretería,45,36.93
+PROD-0416,Pintura Látex Blanco 4L Mod-46,Pinturas,75,74.28
+PROD-0108,Alicate Universal Mod-72,Ferretería,71,55.34
+PROD-0375,Alicate Universal Mod-21,Ferretería,40,59.61
+PROD-0450,Casco de Seguridad Mod-44,Seguridad Industrial,47,29.27
+PROD-0134,"Brocha de 4"" Mod-72",Pinturas,67,71.6
+PROD-0368,Alicate Universal Mod-86,Ferretería,52,65.08
+PROD-0045,Ladrillo King Kong Mod-10,Construcción,98,27.39
+PROD-0496,Lentes de Policarbonato Mod-15,Seguridad Industrial,119,S/ 57.67
+PROD-0066,Botas Punta de Acero Mod-61,Seguridad Industrial,75,49.05
+PROD-0284,Llave Térmica 32A Mod-40,Electricidad,79,34.33
+PROD-0086,Guantes de Badana Mod-73,Seguridad Industrial,35,
+PROD-0243,Pegamento para Mayólica Mod-68,Construcción,105,19.97
+PROD-0187,"Brocha de 4"" Mod-17",Pinturas,99,45.31
+PROD-0426,Pegamento para Mayólica Mod-77,Construcción,47,38.43
+PROD-0160,Thinner Acrílico 1G Mod-59,Pinturas,SIN_DATO,88.52
+PROD-0013,Yeso Cerámico Mod-21,Construcción,5,25.89
+PROD-0036,Chaleco Reflectivo Mod-93,Seguridad Industrial,-10,68.37
+PROD-0029,Chaleco Reflectivo Mod-79,Seguridad Industrial,114,68.52
+PROD-0171,"Fierro Corrugado 1/2"" Mod-67",Construcción,10,36.54
+PROD-0143,Botas Punta de Acero Mod-93,Seguridad Industrial,65,48.06
+PROD-0403,Cable THW 14 AWG Mod-43,Electricidad,32,48.45
+PROD-0350,"Rodillo de Felpa 9"" Mod-60",Pinturas,16,S/ 45.86
+PROD-0222,Casco de Seguridad Mod-77,Seguridad Industrial,61,34.78
+PROD-0096,Juego de Llaves Mod-58,Ferretería,73,76.41
+PROD-0052,"Brocha de 4"" Mod-41",Pinturas,72,
+PROD-0241,Cinta Métrica 5m Mod-30,Ferretería,117,52.22
+PROD-0377,Pegamento para Mayólica Mod-42,Construcción,107,42.88
+PROD-0383,Ladrillo King Kong Mod-57,Construcción,44,28.86
+PROD-0179, CEMENTO SOL 42.5KG MOD-18 ,  construcción  ,37,40.95
+PROD-0042,Interruptor Doble Mod-45,Electricidad,79,30.39
+PROD-0441,Pegamento para Mayólica Mod-56,Construcción,88,47.94
+PROD-0392,Thinner Acrílico 1G Mod-81,Pinturas,25,90.29
+PROD-0207,Guantes de Badana Mod-75,Seguridad Industrial,100,27.54
+PROD-0283,Thinner Acrílico 1G Mod-81,,92,
+PROD-0255,Tomacorriente con Tierra Mod-98,Electricidad,96,39.55
+PROD-0417,Casco de Seguridad Mod-18,Seguridad Industrial,42,51.16
+PROD-0005,Juego de Llaves Mod-62,Ferretería,104,44.44
+PROD-0257,Lentes de Policarbonato Mod-52,Seguridad Industrial,77,47.23
+PROD-0454,Ladrillo King Kong Mod-55,Construcción,110,27.22
+PROD-0101,Yeso Cerámico Mod-18,Construcción,17,46.33
+PROD-0227,"Fierro Corrugado 1/2"" Mod-53",Construcción,82,41.72
+PROD-0432,Cinta Métrica 5m Mod-68,Ferretería,106,80.59
+PROD-0214,Cemento Sol 42.5kg Mod-21,Construcción,60,47.11
+PROD-0427,Ladrillo King Kong Mod-80,Construcción,76,28.01
+PROD-0172,Interruptor Doble Mod-57,Electricidad,64,43.85
+PROD-0099,Interruptor Doble Mod-39,Electricidad,109,28.16
+PROD-0293,Guantes de Badana Mod-79,Seguridad Industrial,39,65.53
+PROD-0216,Pegamento para Mayólica Mod-21,Construcción,SIN_DATO,19.18
+PROD-0062,Chaleco Reflectivo Mod-36,Seguridad Industrial,112,38.32
+PROD-0048,Esmalte Sintético Mod-13,Pinturas,2,40.74
+PROD-0033,Cinta Métrica 5m Mod-35,Ferretería,101,29.59
+PROD-0268,Esmalte Sintético Mod-90,Pinturas,92,53.37
+PROD-0328,"Brocha de 4"" Mod-63",Pinturas,108,80.02
+PROD-0201,Pintura Látex Blanco 4L Mod-26,Pinturas,41,55.03
+PROD-0452,Botas Punta de Acero Mod-19,Seguridad Industrial,26,40.8
+PROD-0028,"Rodillo de Felpa 9"" Mod-88",Pinturas,87,46.5
+PROD-0394,Esmalte Sintético Mod-37,Pinturas,119,73.56
+PROD-0231,Tomacorriente con Tierra Mod-90,Electricidad,89,36.24
+PROD-0261,Cemento Sol 42.5kg Mod-94,Construcción,118,17.18
+PROD-0289,Esmalte Sintético Mod-24,Pinturas,92,81.89
+PROD-0163,Guantes de Badana Mod-93,Seguridad Industrial,14,57.45
+PROD-0430,Cable THW 14 AWG Mod-56,Electricidad,SIN_DATO,37.84
+PROD-0139,Pintura Látex Blanco 4L Mod-53,Pinturas,119,64.96
+PROD-0063,Destornillador Estrella Mod-90,Ferretería,4,57.03
+PROD-0136,Thinner Acrílico 1G Mod-56,Pinturas,111,83.83
+PROD-0129,Lentes de Policarbonato Mod-98,Seguridad Industrial,18,45.0
+PROD-0483,Casco de Seguridad Mod-63,Seguridad Industrial,2,28.3
+PROD-0009,Botas Punta de Acero Mod-64,Seguridad Industrial,73,29.23
+PROD-0327,Multímetro Digital Mod-18,Electricidad,93,19.96
+PROD-0470,Pegamento para Mayólica Mod-89,Construcción,68,46.13
+PROD-0065,Cemento Sol 42.5kg Mod-42,Construcción,64,S/ 45.6
+PROD-0301,Alicate Universal Mod-59,Ferretería,116,S/ 48.89
+PROD-0015,Yeso Cerámico Mod-75,Construcción,49,32.83
+PROD-0157,Multímetro Digital Mod-15,Electricidad,4,30.22
+PROD-0041,"Rodillo de Felpa 9"" Mod-88",Pinturas,31,97.64
+PROD-0380,"Brocha de 4"" Mod-42",Pinturas,116,70.7
+PROD-0466,Pegamento para Mayólica Mod-27,Construcción,75,32.23
+PROD-0408,Juego de Llaves Mod-23,Ferretería,33,49.84
+PROD-0217,"Brocha de 4"" Mod-31",Pinturas,20,74.39
+PROD-0280,"Brocha de 4"" Mod-76",Pinturas,-5,38.93
+PROD-0440,Casco de Seguridad Mod-69,Seguridad Industrial,30,66.11
+PROD-0005,Juego de Llaves Mod-62,Ferretería,104,44.44
+PROD-0338,Pegamento para Mayólica Mod-83,Construcción,7,43.82
+PROD-0237,Ladrillo King Kong Mod-20,Construcción,22,31.03
+PROD-0208,Botas Punta de Acero Mod-32,Seguridad Industrial,116,42.73
+PROD-0213,Yeso Cerámico Mod-24,Construcción,SIN_DATO,36.8
+PROD-0296,Thinner Acrílico 1G Mod-23,Pinturas,103,65.36
+PROD-0463,Ladrillo King Kong Mod-34,Construcción,75,S/ 26.05
+PROD-0252,Pegamento para Mayólica Mod-20,Construcción,67,38.41
+PROD-0495,Cable THW 14 AWG Mod-20,Electricidad,0,50.17
+PROD-0465,Tomacorriente con Tierra Mod-61,Electricidad,95,20.24
+PROD-0304,Martillo Carpintero Mod-29,Ferretería,75,35.58
+PROD-0351,Llave Térmica 32A Mod-48,Electricidad,SIN_DATO,45.67
+PROD-0270,Tomacorriente con Tierra Mod-87,Electricidad,-10,40.81
+PROD-0202,Pintura Látex Blanco 4L Mod-66,Pinturas,80,51.36
+PROD-0162,Esmalte Sintético Mod-63,Pinturas,58,62.52
+PROD-0044,Lentes de Policarbonato Mod-93,Seguridad Industrial,SIN_DATO,47.82
+PROD-0218,Esmalte Sintético Mod-18,Pinturas,86,69.99
+PROD-0402,Multímetro Digital Mod-28,Electricidad,69,53.67
+PROD-0191,Llave Térmica 32A Mod-72,Electricidad,53,44.64
+PROD-0310,Interruptor Doble Mod-27,Electricidad,12,19.96
+PROD-0260,Ladrillo King Kong Mod-17,Construcción,28,47.96
+PROD-0106,Yeso Cerámico Mod-45,Construcción,70,18.78
+PROD-0054,Casco de Seguridad Mod-30,Seguridad Industrial,SIN_DATO,71.16
+PROD-0390,Taladro Percutor Mod-66,Ferretería,18,45.97
+PROD-0002,Cable THW 14 AWG Mod-57,Electricidad,75,32.44
+PROD-0447,Tomacorriente con Tierra Mod-11,Electricidad,44,35.64
+PROD-0489,Esmalte Sintético Mod-14,Pinturas,108,77.08
+PROD-0050,Yeso Cerámico Mod-42,Construcción,84,31.7
+PROD-0420, CEMENTO SOL 42.5KG MOD-42 ,  construcción  ,62,39.76
+PROD-0081,Chaleco Reflectivo Mod-42,Seguridad Industrial,115,39.09
+PROD-0206,Llave Térmica 32A Mod-24,Electricidad,67,46.92
+PROD-0035,Juego de Llaves Mod-78,Ferretería,89,45.29
+PROD-0431,"Fierro Corrugado 1/2"" Mod-95",Construcción,88,31.56
+PROD-0264,Cable THW 14 AWG Mod-55,Electricidad,80,18.48
+PROD-0428,"Fierro Corrugado 1/2"" Mod-17",Construcción,70,25.45
+PROD-0367,Yeso Cerámico Mod-60,Construcción,111,48.81
+PROD-0092,Lentes de Policarbonato Mod-32,Seguridad Industrial,50,65.23
+PROD-0340,Multímetro Digital Mod-97,Electricidad,47,29.38
+PROD-0480,Guantes de Badana Mod-87,Seguridad Industrial,90,32.54
+PROD-0053,Cable THW 14 AWG Mod-11,Electricidad,9,28.82
+PROD-0346,Chaleco Reflectivo Mod-67,Seguridad Industrial,113,67.97
+PROD-0265,Ladrillo King Kong Mod-10,Construcción,71,30.06
+PROD-0242,Botas Punta de Acero Mod-24,Seguridad Industrial,51,38.3
+PROD-0014,Foco LED 12W Mod-80,Electricidad,14,35.8
+PROD-0316,Thinner Acrílico 1G Mod-58,Pinturas,99,S/ 57.64
+PROD-0089, YESO CERÁMICO MOD-56 ,  construcción  ,74,20.47
+PROD-0388,Llave Térmica 32A Mod-56,Electricidad,21,40.19
+PROD-0274,Cinta Métrica 5m Mod-10,Ferretería,66,68.31
+PROD-0167,Lentes de Policarbonato Mod-15,Seguridad Industrial,2,55.36
+PROD-0329,Lentes de Policarbonato Mod-15,Seguridad Industrial,86,65.94
+PROD-0499,Yeso Cerámico Mod-44,,21,
+PROD-0135,Juego de Llaves Mod-69,Ferretería,82,39.1
+PROD-0307,"Brocha de 4"" Mod-54",Pinturas,13,41.68
+PROD-0487,Tomacorriente con Tierra Mod-19,Electricidad,67,41.76
+PROD-0320,Botas Punta de Acero Mod-24,Seguridad Industrial,76,30.54
+PROD-0244,Martillo Carpintero Mod-58,Ferretería,29,80.35
+PROD-0055,Martillo Carpintero Mod-38,Ferretería,67,43.02
+PROD-0364,Destornillador Estrella Mod-98,Ferretería,24,34.88
+PROD-0051,Esmalte Sintético Mod-89,Pinturas,114,78.12
+PROD-0462,Interruptor Doble Mod-39,Electricidad,16,38.43
+PROD-0175,Martillo Carpintero Mod-78,Ferretería,80,79.39
+PROD-0446,Esmalte Sintético Mod-43,Pinturas,82,55.5
+PROD-0190,Taladro Percutor Mod-62,Ferretería,18,61.65
+PROD-0003,Foco LED 12W Mod-88,Electricidad,38,32.33
+PROD-0464," FIERRO CORRUGADO 1/2"" MOD-51 ",  construcción  ,74,42.11
+PROD-0188,"Fierro Corrugado 1/2"" Mod-68",Construcción,60,20.8
+PROD-0170,"Rodillo de Felpa 9"" Mod-66",Pinturas,38,79.1
+PROD-0059,"Fierro Corrugado 1/2"" Mod-93",Construcción,19,44.78
+PROD-0049,Llave Térmica 32A Mod-93,Electricidad,4,36.76
+PROD-0345,Cemento Sol 42.5kg Mod-10,Construcción,20,25.53
+PROD-0236,Martillo Carpintero Mod-97,Ferretería,111,34.53
+PROD-0253,Cemento Sol 42.5kg Mod-27,Construcción,105,18.93
+PROD-0022,Tomacorriente con Tierra Mod-17,Electricidad,15,42.41
+PROD-0314,Cemento Sol 42.5kg Mod-62,Construcción,54,25.94
+PROD-0460,Thinner Acrílico 1G Mod-11,Pinturas,70,41.13
+PROD-0161,Multímetro Digital Mod-95,Electricidad,4,25.54
+PROD-0277,Llave Térmica 32A Mod-38,Electricidad,42,34.6
+PROD-0444,Taladro Percutor Mod-85,Ferretería,105,68.93
+PROD-0192,Yeso Cerámico Mod-36,Construcción,58,28.64
+PROD-0386,Lentes de Policarbonato Mod-82,Seguridad Industrial,12,37.94
+PROD-0294,Yeso Cerámico Mod-12,Construcción,73,28.34
+PROD-0414, MARTILLO CARPINTERO MOD-84 ,  ferretería  ,31,57.65
+PROD-0344,Esmalte Sintético Mod-81,Pinturas,6,60.37
+PROD-0258,"Brocha de 4"" Mod-87",Pinturas,71,83.41
+PROD-0309,Tomacorriente con Tierra Mod-23,Electricidad,26,50.91
+PROD-0150,"Rodillo de Felpa 9"" Mod-69",Pinturas,9,S/ 35.79
+PROD-0131,Martillo Carpintero Mod-18,Ferretería,51,73.82
+PROD-0152,Lentes de Policarbonato Mod-46,Seguridad Industrial,32,35.82
+PROD-0360,"Fierro Corrugado 1/2"" Mod-59",Construcción,23,29.92
+PROD-0100,Multímetro Digital Mod-96,Electricidad,111,50.18
+PROD-0373,Tomacorriente con Tierra Mod-92,Electricidad,112,35.36
+PROD-0088,Juego de Llaves Mod-12,Ferretería,37,32.2
+PROD-0459,Alicate Universal Mod-57,Ferretería,9,40.57
+PROD-0331,Guantes de Badana Mod-54,Seguridad Industrial,99,55.34
+PROD-0215,Pintura Látex Blanco 4L Mod-12,Pinturas,17,49.39
+PROD-0467,Cemento Sol 42.5kg Mod-34,Construcción,12,34.52
+PROD-0122,Tomacorriente con Tierra Mod-21,Electricidad,37,30.66
+PROD-0006,Thinner Acrílico 1G Mod-86,Pinturas,42,83.56
+PROD-0021,Juego de Llaves Mod-80,Ferretería,42,51.85
+PROD-0189,Juego de Llaves Mod-43,Ferretería,16,29.76
+PROD-0072,Pegamento para Mayólica Mod-55,Construcción,70,35.36
+PROD-0107,Yeso Cerámico Mod-49,Construcción,23,35.74
+PROD-0271,Destornillador Estrella Mod-11,Ferretería,41,65.31
+PROD-0349,Cinta Métrica 5m Mod-58,Ferretería,111,35.1
+PROD-0436,Esmalte Sintético Mod-53,Pinturas,91,43.51
+PROD-0103,Alicate Universal Mod-40,Ferretería,22,34.62
